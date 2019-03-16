@@ -1,6 +1,6 @@
 'use strict';
 
-const LEANCLOUD = Symbol('app#AV');
+const LEANCLOUD = Symbol('Application#AV');
 const AV = require('leanengine');
 
 module.exports = {
