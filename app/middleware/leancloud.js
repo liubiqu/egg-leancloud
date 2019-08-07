@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = (options, app) => {
-  return app.AV.koa();
+    return app.AV.koa2();
 };
